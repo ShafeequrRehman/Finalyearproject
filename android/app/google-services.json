@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948324580621",
+    "project_id": "swollmate-b1707",
+    "storage_bucket": "swollmate-b1707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948324580621:android:dca91cf61e9d6eeafac444",
+        "android_client_info": {
+          "package_name": "com.swollmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948324580621-e8ai2d70s3mm5fomsqsd1f0nunad69a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLKOSiOdSSZJLP387IAcF8JvHfe7yzVc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948324580621-e8ai2d70s3mm5fomsqsd1f0nunad69a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
